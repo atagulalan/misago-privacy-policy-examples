@@ -9,18 +9,7 @@ Your e-mail address is stored at the time of your user account's creation.
 
 The site records your username, timestamp of action and IP address when you perform one of the following:
 
-- Register your account
-- Post new message on forums
-- Edit message
-- Perform action that results in creation of "event object" such as thread's name change or 
-- Add new participant to private thread
-- Uploads new attachment
-- Create new poll
-- Vote in poll
-- Like a post
-- Change your or other user's username
-
-In addition to above, the site logs the timestamp and IP address of every HTTP request from your computer as well as associates last IP address you've used with your account.
+The site logs the timestamp and IP address of every HTTP request from your computer as well as associates last IP address you've used with your account.
 
 The site also records any additional information (like real name and surname) made available to it by the third party service when either "Sign in with Facebook" or "Sign in with GitHub" option is used.
 
