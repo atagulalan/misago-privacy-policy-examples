@@ -12,7 +12,7 @@ Your IP address is being recorded when you are browsing the site to let the site
 We will also store any additional data about yourself that you will make available through your social profile on our site or messages that you will publish using site's features.
 
 
-## Who has access to information about me?
+## Who has access to information about you
 
 Your username as well as any other information about yourself that you will decide to make available through your profile or forum messages is accessible by everyone who accesses the site.
 
@@ -35,12 +35,19 @@ Your personal data is stored until either of following takes place:
 - item on site that your personal data is associated with such as post is deleted by you or member of site staff
 
 
-## What rights do I have?
+## Analytics
 
-????
+This site uses Google Analytics to collect anonymized information about it's visitors that allows us to improve our audiences experience. To learn more about Google Analytics, see [Google's Privacy policy for partner sites](https://www.google.com/policies/privacy/partners/).
+
+You may disable Google Analytics on all sites that you are visiting by installing official [browser extension](https://tools.google.com/dlpage/gaoptout).
 
 
-## How to remove your information from the site
+## Your rights
+
+To learn about your rights, please see the complete text of the General Data Protection Regulation (or GDPR) [available here](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.119.01.0001.01.ENG).
+
+
+## Removing your information from the site
 
 You are able to delete your username, e-mail and IP addresses associated with your account at any time by using the "[Delete account](https://misago-project.org/options/delete-account/)" or contacting the site staff.
 
