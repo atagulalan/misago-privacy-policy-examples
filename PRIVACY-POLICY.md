@@ -22,16 +22,20 @@ The side records IP addresses of users when they are using the site's features t
 Personal data is stored until it or user account associated with it is deleted by user owning the account, member of the site staff or site administrator.
 
 
-## Personal data visibility
+## Data security
 
 Username as well as any other information about user that they decide to make available by making it part of published content is accessible by everyone with accesses to the site.
 
 Users e-mail and IP addresses are only accessible to the members of site staff listed on the [following page](https://misago-project.org/users/team/), unless user has decided to make them publictly available as part of content they published on site.
 
+Site administrator employs sustainable measures available to him to ensure that user data is protected from unauthorized access or disclosure.
+
 
 ## Cookies
 
-Misago Forums uses cookies to provide the log in feature and to secure forms that users submit.
+Cookies are small bits of information that the site may store on user computer and then access when user is browsing the site.
+
+Misago Forums use cookies to provide the log in feature and to secure forms that users submit.
 
 This site also uses Google Analytics service to collect anonymized information about it's visitors that allows Us to improve experience for our audience. Google Analytics uses cookies to track browsing behaviour of users interacting with the site. Those cookies are not transfered outside of the site and can't be used to identify the user.
 
