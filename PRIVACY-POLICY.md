@@ -28,7 +28,7 @@ Username as well as any other information about user that they decide to make av
 
 Users e-mail and IP addresses are only accessible to the members of site staff listed on the [following page](https://misago-project.org/users/team/), unless user has decided to make them publictly available as part of content they published on site.
 
-Site administrator employs sustainable measures available to him to ensure that user data is protected from unauthorized access or disclosure.
+Site administrator takes considerable effort to ensure that user data is protected from unauthorized access or disclosure.
 
 
 ## Cookies
