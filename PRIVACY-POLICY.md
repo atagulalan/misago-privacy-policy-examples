@@ -51,11 +51,6 @@ The General Data Protection Regulation (GDPR for short) grants users personal da
 - the right to restriction of processing
 - the right to object to processing
 
+User may exert their rights through the options made available to them by the site's software or by contacting the site's administrator.
+
 To learn more about your rights, please see the complete text of the General Data Protection Regulation [available here](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.119.01.0001.01.ENG).
-
-
-## Exerting rights on the site
-
-Users may exert their right to be forgotten, right to restriction of processing as well as objection to processing at any time by using the "[Delete account](https://misago-project.org/options/delete-account/)" or contacting the site staff. Doing this will result in their account, username, e-mail and IP addresses being deleted from the site.
-
-Users may exert their right to rectify any inaccurate personal data through the features and tools provided by the site such as option to edit their content or "[Change options](https://misago-project.org/options/forum-options/)" section of the site or contacting the site staff.
