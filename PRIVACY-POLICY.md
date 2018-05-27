@@ -2,9 +2,9 @@
 
 The Misago Forums located at the https://misago-project.org address are administrated and operated by Bob Bobertson, an Polish national located in Poland.
 
-The administrator may be contacted via an e-mail message sent to bob.bobertson@example.com or on the site where he is present as the [BobBobertson](https://misago-project.org/u/bobbobertson/1/).
+The administrator may be contacted by an e-mail message sent to bob.bobertson@example.com or on the site where he uses the account named [BobBobertson](https://misago-project.org/u/bobbobertson/1/).
 
-The site is served from the computers located in Frankfurt, Germany, and leased from the *Some Hosting Company* (https://somehostingcompany.com). Site data is also daily backed up to computers located in Dublin, Ireland, and leased from *Acertain Web Services* (https://aws.somewhere.com).
+The site is served from the computers located in Frankfurt, Germany, and leased from the *Some Hosting Company* (https://somehostingcompany.com). Site data is also backed up daily to computers located in Dublin, Ireland, and leased from *Acertain Web Services* (https://aws.somewhere.com).
 
 
 ## Processing of personal data
@@ -15,7 +15,7 @@ To realise this goal the site allows potential users to create user accounts by 
 
 Users can optionally make additional information about them publicly available by making it part of the content they are publishing on the site.
 
-E-mail address is used to send user notifications about new content published on site by other users as well as to allow them to safely confirm their account sign in credentials (e-mail address and password) change and, in case of those being forgotten or lost by the user, to generate new ones.
+E-mail address is used to send notifications about new content published on site by other users as well as to allow them to safely confirm their account sign in credentials (e-mail address and password) change, to generate new ones in case user has forgot their password, and for site administrator to send notifications about important events concerning the user.
 
 The side records IP addresses of users when they are using the site's features to enable the site staff to block eventual abuse, technical attacks or violations of site's terms of service.
 
@@ -59,5 +59,3 @@ To learn more about your rights, please see the complete text of the General Dat
 Users may exert their right to be forgotten, right to restriction of processing as well as objection to processing at any time by using the "[Delete account](https://misago-project.org/options/delete-account/)" or contacting the site staff. Doing this will result in their account, username, e-mail and IP addresses being deleted from the site.
 
 Users may exert their right to rectify any inaccurate personal data through the features and tools provided by the site such as option to edit their content or "[Change options](https://misago-project.org/options/forum-options/)" section of the site or contacting the site staff.
-
-The site staff is committed to fullfilling the user requests concerning exertion of their data protection rights to the best result possible
