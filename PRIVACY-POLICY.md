@@ -26,15 +26,14 @@ Personal data is stored until it or user account associated with it is deleted b
 
 Username as well as any other information about user that they decide to make available by making it part of published content is accessible by everyone with accesses to the site.
 
-Users e-mail and IP addresses are accessible to the members of site staff listed on following page:
-https://misago-project.org/users/team/
+Users e-mail and IP addresses are only accessible to the members of site staff listed on the [following page](https://misago-project.org/users/team/), unless user has decided to make them publictly available as part of content they published on site.
 
 
 ## Cookies
 
 Misago Forums uses cookies to provide the log in feature and to secure forms that users submit.
 
-This site uses also Google Analytics to collect anonymized information about it's visitors that allows Us to improve experience for our audience. Google Analytics uses cookies to track  browsing behaviour of users interacting with the site. Those cookies are not transfered outside of the site and can't be used to identify the user.
+This site also uses Google Analytics service to collect anonymized information about it's visitors that allows Us to improve experience for our audience. Google Analytics uses cookies to track browsing behaviour of users interacting with the site. Those cookies are not transfered outside of the site and can't be used to identify the user.
 
 To learn more about Google Analytics, see [Google's Privacy policy for partner sites](https://www.google.com/policies/privacy/partners/).
 
