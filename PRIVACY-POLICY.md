@@ -1,61 +1,57 @@
 # Misago Forums Privacy Policy
 
-This notice explains what information about you is being collected and used on the Misago Forums available under the https://misago-project.org address.
+The Misago Forums located at the https://misago-project.org address are administrated and operated by Bob Bobertson, an Polish national located in Poland.
+
+The administrator may be contacted by an e-mail to bob.bobertson@example.com or on the site where he is present as the [BobBobertson](https://misago-project.org/u/bobbobertson/1/).
+
+The is site is served from the computers located in Frankfurt, Germany, and leased from the *Some Hosting Company* (https://somehostingcompany.com). Site data is also daily backed up to computers located in Dublin, Ireland, and leased from *Acertain Web Services* (https://aws.somewhere.com).
 
 
-## What information is being collected?
+## Personal data processing
 
-Your username and e-mail address is stored when you create an user account on our site. If you have used a third party service to create your account, we will additionally store whatever additional data you have allowed that service to make available to our site, like your username on the other site, real name, e-mail address or profile picture.
+Misago Forums is an internet social networking site and discussion forum that connects people interested in Misago forum software.
 
-Your IP address is being recorded when you are browsing the site to let the site staff to block eventual abuse, technical attacks or violations of our terms of service.
+To realise this goal the site allows potential users to create user accounts by providing their username and e-mail address or by transfering their data from supported third party service. Account is required for users to be able to publish content on the site for other users to see and interact to and to be able to associate the content with user that authored it.
 
-We will also store any additional data about yourself that you will make available through your social profile on our site or messages that you will publish using site's features.
+Users may make additional information about them available by making it part of the content they are publishing on the site.
+
+E-mail address is used to send user notifications about new content published on site by other users as well as to allow them to safely confirm their account's sign in credentials (e-mail address and password) and, in case of those being forgotten or lost by the user, to generate new ones.
+
+The side records IP addresses of users when they are using the site's features to enable the site staff to block eventual abuse, technical attacks or violations of it's terms of service.
+
+Personal data is stored until it or user account associated with it is deleted by user owning the account, member of the site staff or site administrator.
 
 
-## Who has access to information about you
+## Data visibility
 
-Your username as well as any other information about yourself that you will decide to make available through your profile or forum messages is accessible by everyone who accesses the site.
+Username as well as any other information about user that they decide to make available by making it part of published content is accessible by everyone with accesses the site.
 
-Your E-mail and IP address is accessible to the members of site staff listed on following page:
+Users e-mail and IP addresses are accessible to the members of site staff listed on following page:
 https://misago-project.org/users/team/
 
 
-## Where is your information stored
+## Cookies
 
-Your personal data is stored on the computers that are physically located in Frankfurt, Germany, and leased from the *Some Hosting Company* (https://somehostingcompany.com).
+Misago Forums uses cookies to provide the log in feature and to secure forms that users submit.
 
-The personal data is also stored as part of our automatic data backup on servers located in Dublin, Ireland, and leased from *Acertain Web Services* (https://aws.somewhere.com).
+This site uses also Google Analytics to collect anonymized information about it's visitors that allows Us to improve experience for our audience. Google Analytics uses cookies to track  browsing behaviour of users interacting with the site. Those cookies are not transfered outside of the site and can't be used to identify the user.
 
-
-## How long is the information stored
-
-Your personal data is stored until either of following takes place:
-
-- the personal data or site account is deleted by you or site administrator
-- item on site that your personal data is associated with such as post is deleted by you or member of site staff
-
-
-## Analytics
-
-This site uses Google Analytics to collect anonymized information about it's visitors that allows us to improve our audiences experience. To learn more about Google Analytics, see [Google's Privacy policy for partner sites](https://www.google.com/policies/privacy/partners/).
+To learn more about Google Analytics, see [Google's Privacy policy for partner sites](https://www.google.com/policies/privacy/partners/).
 
 You may disable Google Analytics on all sites that you are visiting by installing official [browser extension](https://tools.google.com/dlpage/gaoptout).
 
 
-## Your rights
+## Users rights
 
-To learn about your rights, please see the complete text of the General Data Protection Regulation (or GDPR) [available here](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.119.01.0001.01.ENG).
+Users are granted right to 
+
+To learn more about your rights, please see the complete text of the General Data Protection Regulation (or GDPR) [available here](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.119.01.0001.01.ENG).
 
 
 ## Removing your information from the site
 
-You are able to delete your username, e-mail and IP addresses associated with your account at any time by using the "[Delete account](https://misago-project.org/options/delete-account/)" or contacting the site staff.
+Users are able to delete their username, e-mail and IP addresses associated with their account at any time by using the "[Delete account](https://misago-project.org/options/delete-account/)" or contacting the site staff.
 
-Likewise, you may change your username or e-mail to new one through the options available in the "[Change options](https://misago-project.org/options/forum-options/)" section of the site or contacting the site staff. by sending an email with request to the bob.bobertson@example.com e-mail address.
+Likewise, users may change their username or e-mail to new one through the options available in the "[Change options](https://misago-project.org/options/forum-options/)" section of the site or contacting the site staff.
 
-While we are unable to automatically delete personal data embed into the forum posts or attachments or you profile, the members of site staff maintain ability to remove or anonymize any personal information being stored on our site upon your request.
-
-
-## Contacting the site staff
-
-You can contact the site staff using the site's "Private threads" feature to start private thread and invite any of the users listed on [this page](https://misago-project.org/users/team/) to it, or by sending an email message containing your forum username and your request to the bob.bobertson@example.com e-mail address
+The site staff puts their best efford automatically delete personal data embed into the forum posts or attachments or you profile, the members of site staff maintain ability to remove or anonymize any personal information being stored on our site upon your request.
