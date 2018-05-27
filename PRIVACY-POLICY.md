@@ -51,6 +51,6 @@ The General Data Protection Regulation (GDPR for short) grants users personal da
 - the right to restriction of processing
 - the right to object to processing
 
-User may exert their rights through the options made available to them by the site's software or by contacting the site's administrator.
+User may exert their rights through the options made available to them by the site or by contacting the site administrator.
 
 To learn more about your rights, please see the complete text of the General Data Protection Regulation [available here](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.119.01.0001.01.ENG).
