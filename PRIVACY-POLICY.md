@@ -19,7 +19,7 @@ E-mail address is used to send notifications about new content published on site
 
 The side records IP addresses of users when they are using the site's features to enable the site staff to block eventual abuse, technical attacks or violations of site's terms of service.
 
-Personal data is stored until it or user account associated with it is deleted by user owning the account, member of the site staff or site administrator.
+Personal data is stored until it or user account associated with it is deleted by the user owning the account, member of the site staff or site administrator.
 
 
 ## Data security
