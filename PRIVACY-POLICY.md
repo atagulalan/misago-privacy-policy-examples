@@ -35,7 +35,7 @@ Cookies are small bits of information that the site may store on user computer a
 
 Misago Forums use cookies to provide the log in feature and to secure forms that users submit.
 
-This site also uses Google Analytics service to collect anonymized information about it's visitors that allows Us to improve experience for our audience. Google Analytics uses cookies to track browsing behaviour of users interacting with the site. Those cookies are not transfered outside of the site and can't be used to identify the user.
+The site also uses Google Analytics service to collect anonymized information about it's visitors that allows site administrator to improve browsing experience for its audience. Google Analytics uses cookies to track browsing behaviour of users interacting with the site. Those cookies are not transfered outside of the site and can't be used to identify the user.
 
 To learn more about Google Analytics, see [Google's Privacy policy for partner sites](https://www.google.com/policies/privacy/partners/).
 
@@ -44,7 +44,7 @@ You may disable Google Analytics on all sites that you are visiting by installin
 
 ## Granted rights
 
-The General Data Protection Regulation (GDPR for short) grants users personal data certain rights protections, among which are:
+The General Data Protection Regulation (GDPR for short) grants users personal data certain rights protections, amongst which are:
 
 - the right to know what data about you is being held and processed
 - the right to rectify any inaccurate personal data
