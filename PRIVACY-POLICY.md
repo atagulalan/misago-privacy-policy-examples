@@ -44,7 +44,7 @@ You may disable Google Analytics on all sites that you are visiting by installin
 
 ## Granted rights
 
-The General Data Protection Regulation (GDPR for short) grants users personal data certain rights protections, amongst which are:
+The General Data Protection Regulation (GDPR for short) grants users certain rights concerning the processing of their personal data, amongst which are:
 
 - the right to know what data about you is being held and processed
 - the right to rectify any inaccurate personal data
