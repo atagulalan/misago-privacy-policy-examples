@@ -26,7 +26,7 @@ Personal data is stored until it or user account associated with it is deleted b
 
 Username as well as any other information about user that they decide to make available by making it part of published content is accessible by everyone with accesses to the site.
 
-Users e-mail and IP addresses are only accessible to the members of site staff listed on the [following page](https://misago-project.org/users/team/), unless user has decided to make them publictly available as part of content they published on site.
+User e-mail and IP addresses are only accessible to the members of site staff listed on the [following page](https://misago-project.org/users/team/), unless the user has decided to make them publictly available as part of content they published on site.
 
 
 ## Cookies
